@@ -1,1 +1,2 @@
-# DUMMY TEXT
+# Kairat Kalmukhambet
+# 190107042
