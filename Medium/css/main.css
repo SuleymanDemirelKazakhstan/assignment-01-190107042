@@ -1,0 +1,14 @@
+body{
+	background-color: lightgray;
+}
+th{
+	text-align: left;
+}
+table, td, th{
+	border: solid 1px black; 
+	border-collapse: collapse;
+	padding: 10px;
+}
+img{
+	width: 200px;
+}
